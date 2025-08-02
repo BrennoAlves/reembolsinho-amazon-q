@@ -1,0 +1,49 @@
+RELATÓRIO FISCAL DETALHADO
+==================================================
+
+TOTAL GERAL: R$ 286.15
+TOTAL DE CANHOTOS: 5
+
+DETALHES POR CANHOTO:
+--------------------------------------------------
+
+1. 20250802_095344.jpg
+   CNPJ: None
+   Empresa: CNPJ não encontrado
+   Valor: R$ 48.00
+   Categoria: Outros
+   Atividade: Não identificada
+
+2. 20250802_095352.jpg
+   CNPJ: None
+   Empresa: CNPJ não encontrado
+   Valor: R$ 96.15
+   Categoria: Outros
+   Atividade: Não identificada
+
+3. 20250802_095359.jpg
+   CNPJ: None
+   Empresa: CNPJ não encontrado
+   Valor: R$ 35.00
+   Categoria: Outros
+   Atividade: Não identificada
+
+4. 20250802_095408.jpg
+   CNPJ: 27064705000129
+   Empresa: NOWIGO SERVICOS E COMERCIO LTDA
+   Valor: R$ 62.00
+   Categoria: Tecnologia
+   Atividade: Desenvolvimento e licenciamento de programas de computador customizáveis
+
+5. 20250802_095415.jpg
+   CNPJ: 27064705000129
+   Empresa: NOWIGO SERVICOS E COMERCIO LTDA
+   Valor: R$ 45.00
+   Categoria: Tecnologia
+   Atividade: Desenvolvimento e licenciamento de programas de computador customizáveis
+
+
+RESUMO POR CATEGORIA:
+--------------------------------------------------
+Outros: R$ 179.15 (62.6%)
+Tecnologia: R$ 107.00 (37.4%)
